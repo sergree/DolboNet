@@ -29,6 +29,9 @@
 - Установите **[Git LFS]**
 - Установите [**Visual C++ Redistributable**][Vcredist] - необходим для `scipy`
 - Откройте **Git Bash**, щелкнув правой кнопкой мыши по пустому месту внутри папки *(например, **Мои документы**)* и выбрав `Git Bash Here`
+- Запустите **Git LFS**: `git lfs install`
+- Скачайте репозиторий: `git clone https://github.com/wokashi-rg/DolboNet`
+- Перейдите в папку: `cd DolboNet`
 - Выполните `pip install -r requirements.txt` в появившемся окне
 - [Получите][DiscordDevelopers] токен вашего бота - [инструкция][HowToGetToken]
 - Отредактируйте файл конфигурации `config.py`, вставив токен бота в `token = '...'`

@@ -131,6 +131,7 @@
 
 Мы знаем, что бот уже хостится здесь:
 - **[! REPUBLIC OF PEPESTAN & ITS CITIZENS][Server1]**
+- **[! Molecular Dream World ☘][Server2]**
 
 [Напишите нам], чтобы попасть в этот список.
 
@@ -225,5 +226,6 @@
 [Transformer XL]: https://arxiv.org/abs/1901.02860
 [Git LFS]: https://git-lfs.github.com/
 [Server1]: https://discordapp.com/invite/TVw8NKv
+[Server2]: https://discordapp.com/invite/HmK6xsS
 [Setup]: https://github.com/wokashi-rg/DolboNet#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0
 [Напишите нам]: mailto:wokashi.rg@gmail.com

@@ -26,6 +26,7 @@
 - Установите [**Python 3.7 64-bit**][Python]
 - При установке [**Python 3.7 64-bit**][Python] должны стоять галочки `Install launcher for all users (recommended)` и `Add Python 3.7 to PATH`
 - Установите **[Git]**
+- Установите **[Git LFS]**
 - Установите [**Visual C++ Redistributable**][Vcredist] - необходим для `scipy`
 - Откройте **Git Bash**, щелкнув правой кнопкой мыши по пустому месту внутри папки *(например, **Мои документы**)* и выбрав `Git Bash Here`
 - Выполните `pip install -r requirements.txt` в появившемся окне
@@ -38,6 +39,8 @@
 
 ## Ubuntu 18.04 LTS
 Протестировано на **2 x 2.6 ГГц CPU + 2 ГБ RAM**.
+- Установите **Git LFS**: `sudo apt install git-lfs`
+- Запустите **Git LFS**: `git lfs install`
 - Скачайте репозиторий: `git clone https://github.com/wokashi-rg/DolboNet`
 - Перейдите в папку: `cd DolboNet`
 - Если ещё не установлен `pip3`, то установите его: `sudo apt install python3-pip`
@@ -213,3 +216,4 @@
 [TransformerExplained]: https://habr.com/ru/post/341240/
 [Universal Transformer]: https://arxiv.org/abs/1807.03819
 [Transformer XL]: https://arxiv.org/abs/1901.02860
+[Git LFS]: https://git-lfs.github.com/

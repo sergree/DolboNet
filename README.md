@@ -125,12 +125,14 @@
 > _Хостите ли вы этого бота? Могу ли я обойтись публичной версией? Дайте ссылку!_
 
 <!--- Мы не хостим публичную версию бота, потому что процесс генерации сообщения [трансформером][Transformer] не дешевый с точки зрения ресурсов. При скорости генерации **~0.1 секунды на токен**, если бы этот бот находился на 50-ти публичных **Discord** серверах, то он бы работал *очень медленно*. --->
-Мы не хостим публичную версию бота. Чтобы он появился на Вашем **[Discord]** сервере, его необходимо [установить][Setup].
+~~Мы не хостим публичную версию бота. Чтобы он появился на Вашем **[Discord]** сервере, его необходимо [установить][Setup].~~
+[Ссылка][BotInvite]. Бот доступен не всегда и может иногда отвечать медленно.
 
 > _На каких серверах этот бот уже есть?_
 
 Мы знаем, что бот уже хостится здесь:
 - **[! REPUBLIC OF PEPESTAN & ITS CITIZENS][Server1]**
+- **[LeviaFun][Server3]**
 - **[! Molecular Dream World ☘][Server2]**
 
 [Напишите нам], чтобы попасть в этот список.
@@ -227,5 +229,7 @@
 [Git LFS]: https://git-lfs.github.com/
 [Server1]: https://discordapp.com/invite/TVw8NKv
 [Server2]: https://discordapp.com/invite/HmK6xsS
+[Server3]: https://discordapp.com/invite/XUJq5WR
+[BotInvite]: https://discordapp.com/api/oauth2/authorize?client_id=584636018125176834&permissions=3072&scope=bot
 [Setup]: https://github.com/wokashi-rg/DolboNet#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0
 [Напишите нам]: mailto:wokashi.rg@gmail.com

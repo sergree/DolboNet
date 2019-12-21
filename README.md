@@ -233,5 +233,5 @@
 [Server3]: https://discordapp.com/invite/XUJq5WR
 [Server4]: https://discordapp.com/invite/mUsxsST
 [BotInvite]: https://discordapp.com/api/oauth2/authorize?client_id=584636018125176834&permissions=3072&scope=bot
-[Setup]: https://github.com/wokashi-rg/DolboNet#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0
+[Setup]: https://github.com/sergree/DolboNet#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0
 [Напишите нам]: mailto:wokashi.rg@gmail.com

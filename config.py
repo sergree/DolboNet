@@ -1,6 +1,6 @@
 # Токен бота в Discord
 # Как получить: https://www.writebots.com/discord-bot-token/
-token = 'ВСТАВЬТЕ_ТОКЕН_СЮДА'
+token = "ВСТАВЬТЕ_ТОКЕН_СЮДА"
 
 # С какой вероятностью бот отправит сообщение, если обнаружит сообщение с его упоминанием (от 0 до 1)
 mention_prob = 1  # 100%
@@ -17,7 +17,7 @@ no_mention_prob = 0.2  # 20%
 temperature = 0.65
 
 # Команда изменения температуры во время работы бота (могут использовать только администраторы)
-command_temperature_change = '!temp'
+command_temperature_change = "!temp"
 
 # ---
 # ! Следующие параметры лучше оставить как есть !
@@ -27,13 +27,13 @@ command_temperature_change = '!temp'
 deque_max_len = 10
 
 # Предобученные веса модели
-weights_file = 'weights/dolbonet_004_100_0.1485_0.4306.h5'
+weights_file = "weights/dolbonet_004_100_0.1485_0.4306.h5"
 
 # Файл хранящий словарь
-vocab_file = 'vocab/vocab_full_10k_ru.pickle'
+vocab_file = "vocab/vocab_full_10k_ru.pickle"
 
 # Статус бота в Discord
-discord_game_name = 'github.com/wokashi-rg'
+discord_game_name = "github.com/sergree"
 
 # Величина словаря
 vocab_size = 10000

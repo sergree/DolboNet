@@ -9,7 +9,7 @@
 
 ![Дота?](images/0l1k6xm0e55j.png)
 
-Данный бот **не использует** готовую базу данных сообщений, а генерирует новые уникальные сообщения, реализуя концепцию **seq2seq на архитектуре [Transformer]**. Основа сети взята из [этого][Tutorial] руководства по **[TensorFlow 2.0]**.
+Данный бот **не использует** готовую базу данных сообщений, а генерирует новые уникальные сообщения, реализуя концепцию **seq2seq на архитектуре [Transformer]**. Основа сети взята из [этого][Tutorial] руководства по **[TensorFlow 2]**.
 
 ![Дурачок](images/jbz7uc83s0j1.png)
 
@@ -197,13 +197,13 @@
 [Discord]: https://discordapp.com/
 [DiscordDevelopers]: https://discordapp.com/developers/applications/
 [Tutorial]: https://github.com/tensorflow/examples/blob/master/community/en/transformer_chatbot.ipynb
-[TensorFlow 2.0]: https://www.tensorflow.org/beta
+[TensorFlow 2]: https://www.tensorflow.org
 [HowToGetToken]: https://www.writebots.com/discord-bot-token/
 [HowToGPU]: https://www.tensorflow.org/install/gpu#software_requirements
 [Transformer]: https://arxiv.org/abs/1706.03762
 [PopularServers]: https://discord-server.com/?language=ru&page=1&rowsOnPage=50&sort=count_desc
 [N-grams]: https://ru.wikipedia.org/wiki/N-%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0
-[Python]: https://www.python.org/ftp/python/3.7.4/python-3.7.4-amd64.exe
+[Python]: https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe
 [Git]: https://gitforwindows.org/
 [Vcredist]: https://www.microsoft.com/en-us/download/details.aspx?id=48145
 [BMC]: https://www.buymeacoffee.com/sergree

@@ -26,7 +26,7 @@
 - Установите **[Git]**
 - Установите [**Visual C++ Redistributable**][Vcredist] - необходим для `scipy`
 - Откройте **Git Bash**, щелкнув правой кнопкой мыши по пустому месту внутри папки *(например, **Мои документы**)* и выбрав `Git Bash Here`
-- Скачайте репозиторий: `git clone https://github.com/wokashi-rg/DolboNet`
+- Скачайте репозиторий: `git clone https://github.com/sergree/DolboNet`
 - Перейдите в папку: `cd DolboNet`
 - Выполните `pip install -r requirements.txt` в появившемся окне
 - [Получите][DiscordDevelopers] токен вашего бота - [инструкция][HowToGetToken]
@@ -38,7 +38,7 @@
 
 ## Ubuntu 20.04 LTS
 Протестировано на **2 x 2.6 ГГц CPU + 2 ГБ RAM**.
-- Скачайте репозиторий: `git clone https://github.com/wokashi-rg/DolboNet`
+- Скачайте репозиторий: `git clone https://github.com/sergree/DolboNet`
 - Перейдите в папку: `cd DolboNet`
 - Если ещё не установлен `pip3`, то установите его: `sudo apt install python3-pip`
 - Установите зависимости: `pip3 install -r requirements.txt`

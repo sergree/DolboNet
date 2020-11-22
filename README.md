@@ -21,8 +21,8 @@
 
 ## Windows 10 64-bit
 Протестировано на **2 x 2.6 ГГц CPU + 4 ГБ RAM**.
-- Установите [**Python 3.9 64-bit**][Python]
-- При установке [**Python 3.9 64-bit**][Python] должны стоять галочки `Install launcher for all users (recommended)` и `Add Python 3.9 to PATH`
+- Установите [**Python 3.8 64-bit**][Python]
+- При установке [**Python 3.8 64-bit**][Python] должны стоять галочки `Install launcher for all users (recommended)` и `Add Python 3.9 to PATH`
 - Установите **[Git]**
 - Установите [**Visual C++ Redistributable**][Vcredist] - необходим для `scipy`
 - Откройте **Git Bash**, щелкнув правой кнопкой мыши по пустому месту внутри папки *(например, **Мои документы**)* и выбрав `Git Bash Here`
@@ -203,7 +203,7 @@
 [Transformer]: https://arxiv.org/abs/1706.03762
 [PopularServers]: https://discord-server.com/?language=ru&page=1&rowsOnPage=50&sort=count_desc
 [N-grams]: https://ru.wikipedia.org/wiki/N-%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0
-[Python]: https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe
+[Python]: https://www.python.org/ftp/python/3.8.6/python-3.8.6-amd64.exe
 [Git]: https://gitforwindows.org/
 [Vcredist]: https://www.microsoft.com/en-us/download/details.aspx?id=48145
 [BMC]: https://www.buymeacoffee.com/sergree

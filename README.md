@@ -206,7 +206,7 @@
 [Python]: https://www.python.org/ftp/python/3.8.6/python-3.8.6-amd64.exe
 [Git]: https://gitforwindows.org/
 [Vcredist]: https://www.microsoft.com/en-us/download/details.aspx?id=48145
-[BMC]: https://www.buymeacoffee.com/sergree
+[BMC]: https://qiwi.com/n/SERGREE
 [opendatakosovo/cyrillic-transliteration]: https://github.com/opendatakosovo/cyrillic-transliteration
 [Великий и могучий]: https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA
 [стемминг]: https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BC%D0%BC%D0%B8%D0%BD%D0%B3

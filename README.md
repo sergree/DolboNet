@@ -206,7 +206,7 @@
 [Python]: https://www.python.org/ftp/python/3.8.6/python-3.8.6-amd64.exe
 [Git]: https://gitforwindows.org/
 [Vcredist]: https://www.microsoft.com/en-us/download/details.aspx?id=48145
-[BMC]: https://qiwi.com/n/SERGREE
+[BMC]: https://boosty.to/sergree
 [opendatakosovo/cyrillic-transliteration]: https://github.com/opendatakosovo/cyrillic-transliteration
 [Великий и могучий]: https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA
 [стемминг]: https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BC%D0%BC%D0%B8%D0%BD%D0%B3
@@ -228,4 +228,4 @@
 [Server4]: https://discordapp.com/invite/mUsxsST
 [BotInvite]: https://discordapp.com/api/oauth2/authorize?client_id=584636018125176834&permissions=3072&scope=bot
 [Setup]: https://github.com/sergree/DolboNet#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0
-[Напишите нам]: mailto:wokashi.rg@gmail.com
+[Напишите нам]: mailto:sergree@vk.com

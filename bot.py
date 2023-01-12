@@ -1,6 +1,6 @@
 # Основной модуль DolboNet
-# by Wokashi RG
-# https://github.com/wokashi-rg
+# by Sergree
+# https://github.com/sergree
 
 import discord
 from core.checking_client import CheckingClient
@@ -26,5 +26,6 @@ if login_successful:
     intents.guilds = True
     intents.guild_messages = True
     intents.emojis = True
+    intents.message_content = True
     main_client = MainClient(intents=intents)
     main_client.run(config.token)

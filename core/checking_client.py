@@ -10,4 +10,4 @@ class CheckingClient(discord.Client):
         super().__init__(**options)
 
     async def on_ready(self):
-        await self.logout()
+        await self.close()

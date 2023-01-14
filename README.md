@@ -24,7 +24,7 @@
 ## Windows 10 64-bit
 Протестировано на **2 x 2.6 ГГц CPU + 4 ГБ RAM**.
 - Установите [**Python 3.8 64-bit**][Python]
-- При установке [**Python 3.8 64-bit**][Python] должны стоять галочки `Install launcher for all users (recommended)` и `Add Python 3.9 to PATH`
+- При установке [**Python 3.8 64-bit**][Python] должны стоять галочки `Install launcher for all users (recommended)` и `Add Python 3.8 to PATH`
 - Установите **[Git]**
 - Установите [**Visual C++ Redistributable**][Vcredist] - необходим для `scipy`
 - Откройте **Git Bash**, щелкнув правой кнопкой мыши по пустому месту внутри папки *(например, **Мои документы**)* и выбрав `Git Bash Here`
